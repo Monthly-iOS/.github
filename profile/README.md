@@ -39,8 +39,12 @@
 - 참고
    - 1주차 :  [WWIT - 윗 : Lifeplus](https://wwit.design/2021/02/16/lifeplus/)
 
+## ⭐️ 4월 BVC 멤버 
+>  `2023.10.09 ~ 2023.12.03` 
 
-
+|<a href="https://github.com/vichye-1"><img src="https://avatars.githubusercontent.com/u/66904886?v=4" width="150px"/></a>|<a href="https://github.com/Hminchae"><img src="https://avatars.githubusercontent.com/u/103357078?v=4" width="150px"/></a>|
+| :---: | :---: |
+| 양승혜 | 황민채 |
 
 <!--
 
